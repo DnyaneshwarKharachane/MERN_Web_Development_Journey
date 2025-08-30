@@ -1,10 +1,3 @@
-Got it 👍
-You want a **final, clean, attractive, professional README** (not too long, not too short) that will impress HR/interviewers. It should clearly show that you learned Web Development step by step, documented it properly, and pushed it to GitHub to track progress.
-
-Here’s a **ready-to-use README.md** for your repo 👇
-
----
-
 # 🌐 Web Development Learning Journey
 
 Hi! I'm Dnyaneshwar 👋
